@@ -2,10 +2,16 @@
 
 Alumno: Sebastian Chu
 
+# Pregunta 1
+Se uso Flask para las funcionalidades del codigo. Usar el comando `python app.py` para correr el codigo. Una vez en el localhost, copiar y pegar los endpoints sobre la url. 
+
+# Pregunta 2
+Para acceder a los tests correr el siguiente comando fuera de la carpeta tests: `python -m unittest discover tests`
+
 
 # Pregunta 3
 
-Se realizarían los siguientes cambios en el código:
+## Se realizarían los siguientes cambios en el código:
 
 ### Modificar el método de realizar_pago en app.py:
 Antes de procesar la transacción, verificar si el valor de la transacción supera los 200 soles. Si supera los 200 soles, no realizar la transacción y devolver un código de estado o mensaje de error adecuado.
