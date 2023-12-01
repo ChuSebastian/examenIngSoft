@@ -1,2 +1,4 @@
-# examenIngSoft
-Examen Final Ingenieria de Software
+# Examen Final Ingenieria de Software
+
+Alumno: Sebastian Chu
+
